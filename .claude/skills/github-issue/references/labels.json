@@ -1,0 +1,23 @@
+[
+  { "name": "기능", "color": "a2eeef", "description": "새 분석·지표·기능·스크립트 추가", "rename_from": "enhancement" },
+  { "name": "버그", "color": "d73a4a", "description": "오류·잘못된 집계/조인/필터 수정", "rename_from": "bug" },
+  { "name": "문서", "color": "0075ca", "description": "README·데이터 사전·주석", "rename_from": "documentation" },
+  { "name": "데이터", "color": "5319e7", "description": "원천·더미·참조 데이터 추가/갱신/삭제" },
+  { "name": "분석", "color": "1d76db", "description": "탐색적 분석(EDA)·노트북·분석 결과 문서" },
+  { "name": "시각화", "color": "e99695", "description": "차트·지도·대시보드·리포트 시각화" },
+  { "name": "파이프라인", "color": "d93f0b", "description": "ETL·수집·스케줄·전처리 흐름" },
+  { "name": "모델", "color": "b4a7e5", "description": "피처·모델 학습/튜닝/평가" },
+  { "name": "개선", "color": "bfdadc", "description": "결과가 바뀌지 않는 구조·성능 개선" },
+  { "name": "환경", "color": "ededed", "description": "의존성·환경·설정·잡무" },
+
+  { "name": "주제: 버스", "color": "006b75", "description": "버스 이용 데이터 전반 (scope: bus)" },
+  { "name": "주제: 노선", "color": "006b75", "description": "노선 (scope: routes)" },
+  { "name": "주제: 하차", "color": "006b75", "description": "하차 (scope: alighting)" },
+  { "name": "주제: 정류장", "color": "006b75", "description": "정류장 (scope: stops)" },
+
+  { "name": "상태: 대기", "color": "cfd3d7", "description": "아직 시작하지 않음" },
+  { "name": "상태: 진행중", "color": "fbca04", "description": "작업 중" },
+  { "name": "상태: 검토중", "color": "0052cc", "description": "PR 열림·리뷰 대기" },
+  { "name": "상태: 완료", "color": "0e8a16", "description": "작업 완료" },
+  { "name": "상태: 보류", "color": "f9d0c4", "description": "일시 중단" }
+]
